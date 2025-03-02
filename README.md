@@ -16,8 +16,8 @@ This is a basic Discord bot built with `discord.js@14`, utilizing OpenRouter's f
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/discord-ai-bot.git
-   cd discord-ai-bot
+   git clone https://github.com/eeaqd/discordBot_openrouter.git
+   cd discordBot_openrouter
    ```
 2. Install dependencies:
    ```sh
